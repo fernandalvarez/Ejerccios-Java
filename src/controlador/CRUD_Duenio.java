@@ -1,7 +1,12 @@
 package controlador;
+/**
+ * @author Fernanda Alvarez
+ * @since 1.0 
+ * @see Modelo.Duenio
+ */
 
 import db.*;
-import modelo.*;
+import modelo1.*;
 import java.sql.SQLException;
 import java.sql.PreparedStatement;
 
